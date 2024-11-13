@@ -25,7 +25,7 @@ Este proyecto fue realizado como parte del reto "New Homepage" de Frontend Mento
 
 ## Enlace al Sitio Web
 
-Puedes ver el sitio web desplegado en Netlify aquí: [New Homepage en Netlify](https://proyect-bento-grid.netlify.app/)
+Puedes ver el sitio web desplegado en Netlify aquí: [New Homepage en Netlify](https://proyect-new-homepage.netlify.app/)
 
 ## Instalación y Uso
 
